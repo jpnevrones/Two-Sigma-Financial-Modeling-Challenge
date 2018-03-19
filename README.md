@@ -1,0 +1,2 @@
+# Two-Sigma-Financial-Modeling-Challenge
+Two Sigma Financial Modeling Challenge - The goal of the competition is to predict a variable ‘y’ which depends on 110 anonymized features pertaining to a time-varying value for a financial instrument, No further information are provided on the meaning of the features, the transformations that were applied to them, the timescale, or the type of instruments that are included in the data. Prototyped predictive models, using linear regression and extra-trees regressor to develop a predictive model for predicting the output variable ‘y’. 
